@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### 🔭 I’m currently working on 4284
+#### 🌱 I’m currently learning React & Django
+#### 📫 How to reach me: jtjun7132@gmail.com
+
 <!--
 **jtjun/jtjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
