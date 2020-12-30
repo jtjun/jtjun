@@ -4,9 +4,9 @@
 #### 🌱 I’m currently learning React & Django
 #### 📫 How to reach me: jtjun7132@gmail.com
 
-![JTJun's github stats](https://github-readme-stats.vercel.app/api?username=jtjun&theme=default&show_icons=true&count_private=true&title_color=1a8aba&text_color=505560&icon_color=059acb&bg_color=fdfeff&hide_border=true)
+![JTJun's github stats](https://github-readme-stats.vercel.app/api?username=jtjun&theme=default&show_icons=true&count_private=true&title_color=1a8aba&text_color=505560&icon_color=059acb&bg_color=fdfeff)
 
-!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtjun&layout=compact)
+!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtjun&layout=compact&title_color=1a8aba&text_color=505560&icon_color=059acb&bg_color=fdfeff)
 
 <!--
 **jtjun/jtjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
