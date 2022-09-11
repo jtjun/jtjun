@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on Google Korea!
 #### 🌱 I’m currently learning NLP
-#### 📫 How to reach me: jtjun@gmail.com
+#### 📫 How to reach me: jtjun@google.com
 
 ![JTJun's github stats](https://github-readme-stats.vercel.app/api?username=jtjun&theme=default&show_icons=true&count_private=true&title_color=1a8aba&text_color=505560&icon_color=059acb&bg_color=fdfeff)
 
