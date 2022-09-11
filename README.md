@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### 🔭 I’m currently studying on SNU
-#### 🌱 I’m currently learning OS & HW & PL
-#### 📫 How to reach me: jtjun7132@gmail.com
+#### 🔭 I’m currently working on Google Korea!
+#### 🌱 I’m currently learning NLP
+#### 📫 How to reach me: jtjun@gmail.com
 
 ![JTJun's github stats](https://github-readme-stats.vercel.app/api?username=jtjun&theme=default&show_icons=true&count_private=true&title_color=1a8aba&text_color=505560&icon_color=059acb&bg_color=fdfeff)
 
